@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Avenir Next Medium';
+    src: url('avenir-next/avenir-next-medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Regular';
+    src:  url('avenir-next/avenir-next-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+
